@@ -144,7 +144,7 @@ except Exception as e:
     fi
     
     # Add a small delay to avoid overwhelming the server
-    sleep 0.1
+    sleep 2
 done
 
 echo "Simulation complete!"
